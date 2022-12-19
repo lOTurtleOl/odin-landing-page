@@ -1,0 +1,54 @@
+.container-1 {
+    max-height: 30%;
+    background-color: #011b27;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+
+li {
+   margin-right: 1em;
+}
+
+.p-1 {
+    font-size: 200;
+}
+
+.body-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 12px;
+    align-items: center;
+    padding: 24px;
+    padding-bottom: 40px;
+}
+
+.box-2 {
+    width: 25%;
+    height: 8em;
+}
+
+button {
+    background-color: rgb(2, 91, 224);
+  border: none;
+  color: white;
+  padding: 8px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    border-radius: 8px;
+}
+
+
+
