@@ -1,6 +1,8 @@
 .container-1 {
     background-color: #011b27;
     color: white;
+    height: 20em;
+    padding-bottom: 4em;
 }
 
 .header {
@@ -65,14 +67,19 @@ button {
 }
 
 img {
-    height: 20em;
+    height: 15em;
     width: auto;
 }
 
 .container-2 {
     background-color: white;
-    max-height: 25%;
+    height: 20em;
+    padding-bottom: 4em;
+    padding-top: 3em;
     }
+
+.body-2 {
+}
 
 .header-2 {
     text-align: center;
@@ -106,3 +113,26 @@ img {
     padding: 15px;
 }
 
+.container-3 {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    height: 20em;
+    padding-top: 6em;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-source {
+    font-weight: bolder;
+    text-align: end;
+}
+
+.box-3 {
+    width: 40%;
+}
